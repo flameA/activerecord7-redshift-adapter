@@ -1,4 +1,4 @@
-activerecord5-redshift-adapter
+activerecord7-redshift-adapter
 ==============================
 
 Amazon Redshift adapter for ActiveRecord 5 (Rails 5).
@@ -17,9 +17,9 @@ and maintains it, we would happily switch to that.
 Usage
 -------------------
 
-For Rails 5, write following in Gemfile:
+For Rails 7, write following in Gemfile:
 ```
-gem 'activerecord5-redshift-adapter'
+gem 'activerecord7-redshift-adapter'
 ```
 
 In database.yml
